@@ -1,5 +1,3 @@
-var x = 0;
-
 function effect(el){
     var colr = ["violet","indigo","blue","green","yellow","orange","red"];
     var rand = colr[Math.floor(Math.random() * colr.length)];
